@@ -1,2 +1,2 @@
 # springMVC
-spring MVC, board, maven
+spring MVC, board, maven, annotation, mybatid, tiles
